@@ -1,0 +1,8 @@
+cogs/karma.py
+  leaderboard
+    value=str(index), str(index) nafarbit, 1. na zlato, 2. na strieborno, 3. na bronzovo
+    
+  mykarma
+    if Karma is None: prepis "You did not received karma yet".
+    karma of {givenUser.name}", color=0x00ff24 - vytiahnut color usera, na tak ufarbu aku ma v pravom sidepanely, napr. ja modru. bender zltu
+    
